@@ -1,0 +1,17 @@
+body{
+  background-color: #3d8d1856;
+}
+.exchange-container {
+    background-color: #e8f1ecb0;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #8be9a7a4;
+    border-radius: 10px;
+  }
+  
+  .exchange-container p {
+    margin-bottom: 20px;
+    text-align: center;
+    
+  }
+  
